@@ -1,6 +1,6 @@
 import java.util.Scanner;
  //adding this new comment
-
+// a new comment made from GitHub online
 public class ConnectFour {
 
     public static void main(String[] args) {
